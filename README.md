@@ -21,8 +21,8 @@ Additional description about the project and its features.
 ### Instructions on how to run my project locally on your machine
 1. Go  to my git repository [TODO_LIST](https://github.com/gabrielcoder247/ToDo-List/list-structure)
 2. then click on download zip folder
-3. open the folder on your local machine via code editor
-4. if you want to run the project, open it via the browser
+3. open the folder on your local machine via code editor.
+4. if you want to run the project, open it via the browser.
 
 
 
